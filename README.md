@@ -1,1 +1,1 @@
-A collection of Google Colab Notebook containing Machine Learning Models done all by myself either as independent or prerequisite projects.
+Here is where I collate my own Machine Learning Projects, either for requirements or random practicing.
